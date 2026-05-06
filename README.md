@@ -8,7 +8,7 @@ University College London
 
 ## Installation
 
-CoVSparse requires Python 3.10 or later. Install the dependencies with:
+CoVSparse requires Python 3.12 or later. Install the dependencies with:
 
 ```bash
 pip install -r requirements.txt
