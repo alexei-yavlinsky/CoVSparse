@@ -8,7 +8,7 @@ University College London
 
 ## How to run this pipeline
 
-Ensure that the `GISAID metadata_tsv.tar.xz` is located in the `data/` directory
+Ensure that the GISAID `metadata_tsv.tar.xz` is located in the `data/` directory
 
 Generate a filtered set of sequences for each protein:
 `python preprocess.py`
