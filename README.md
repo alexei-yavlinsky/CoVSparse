@@ -1,6 +1,6 @@
 # CoVSparse - a suite of Python tools for working with GISAID SARS-CoV-2 data
 
-Dr. Alexei Yavlinsky, Dr. Marina Escalera Zamudio, Cedric Tan, Ali Demirci, Prof. Francois Balloux, Dr. Lucy van Dorp #
+Dr. Alexei Yavlinsky, Dr. Marina Escalera Zamudio, Cedric Tan, Ali Demirci, Prof. Francois Balloux, Dr. Lucy van Dorp
 
 University College London  
 
