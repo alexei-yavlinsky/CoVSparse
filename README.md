@@ -6,6 +6,22 @@ University College London
 
 [![DOI](https://zenodo.org/badge/1230811791.svg)](https://doi.org/10.5281/zenodo.20053707)  
 
+## Installation
+
+CoVSparse requires Python 3.10 or later. Install the dependencies with:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or, if you prefer to install them manually:
+
+```bash
+pip install biopython blosum joblib matplotlib numpy pandas scikit-learn scipy shap xgboost
+```
+
+The pinned versions used during development are listed in `requirements.txt`.
+
 ## How to run this pipeline
 
 Ensure that the GISAID `metadata_tsv.tar.xz` is located in the `data/` directory
