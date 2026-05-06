@@ -2,7 +2,9 @@
 
 Dr. Alexei Yavlinsky, Dr. Marina Escalera Zamudio, Cedric Tan, Ali Demirci, Prof. Francois Balloux, Dr. Lucy van Dorp
 
-University College London  
+University College London
+
+[![DOI](https://zenodo.org/badge/1230811791.svg)](https://doi.org/10.5281/zenodo.20053707)  
 
 ## How to run this pipeline
 
